@@ -1,0 +1,38 @@
+{
+  "5EP2": {
+    "Session1": {
+      "start_time": "07:00",
+      "end_time": "10:00"
+    },
+    "Session2": {
+      "start_time": "10:15",
+      "end_time": "11:15"
+    },
+    "Session3": {
+      "start_time": "11:30",
+      "end_time": "12:30"
+    },
+    "Session4": {
+      "start_time": "19:30",
+      "end_time": "20:30"
+    }
+  },
+  "5EP3": {
+    "Session1": {
+      "start_time": "09:30",
+      "end_time": "10:30"
+    },
+    "Session2": {
+      "start_time": "10:45",
+      "end_time": "11:45"
+    },
+    "Session3": {
+      "start_time": "12:00",
+      "end_time": "13:00"
+    },
+    "Session4": {
+      "start_time": "14:00",
+      "end_time": "15:00"
+    }
+  }
+}
